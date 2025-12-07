@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Step Back",
+  "base_artist": "GOT the beat",
+  "createdAt": "2025-12-07T09:48:48.159021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Step back (feat. Odessa Thornhill)",
+      "artist": "Shy'm feat. Odessa Thornhill",
+      "has_synced": true,
+      "path": "select/01_Step_back_(feat._Odessa_Thornhill)_Shy'm_feat._Odessa_Thornhill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Step Back",
+      "artist": "Chocolate Puma feat. Kris Kiss",
+      "has_synced": false,
+      "path": "select/02_Step_Back_Chocolate_Puma_feat._Kris_Kiss.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Step Back (feat. Kris Kiss)",
+      "artist": "Chocolate Puma",
+      "has_synced": false,
+      "path": "select/03_Step_Back_(feat._Kris_Kiss)_Chocolate_Puma.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take a Step Back",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/04_Take_a_Step_Back_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Step Back in Time",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/05_Step_Back_in_Time_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Step Back In Time",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/06_Step_Back_In_Time_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Step Back In Time (Walkin Rhythm Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/07_Step_Back_In_Time_(Walkin_Rhythm_Mix)_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Step Back in Time (Walkin Rhythm Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/08_Step_Back_in_Time_(Walkin_Rhythm_Mix)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Step Back",
+      "artist": "Letters to Cleo",
+      "has_synced": false,
+      "path": "select/09_Step_Back_Letters_to_Cleo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Step Back",
+      "artist": "Gordon Lightfoot",
+      "has_synced": false,
+      "path": "select/10_Baby_Step_Back_Gordon_Lightfoot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take a Step Back",
+      "artist": "Ski Mask The Slump God feat. XXXTENTACION",
+      "has_synced": true,
+      "path": "select/11_Take_a_Step_Back_Ski_Mask_The_Slump_God_feat._XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take A Step Back",
+      "artist": "Ski Mask The Slump God, XXXTENTACION",
+      "has_synced": true,
+      "path": "select/12_Take_A_Step_Back_Ski_Mask_The_Slump_God,_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Step Back!",
+      "artist": "1nonly feat. Sxmpra",
+      "has_synced": true,
+      "path": "select/13_Step_Back!_1nonly_feat._Sxmpra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Step Back!",
+      "artist": "1nonly/SXMPRA",
+      "has_synced": true,
+      "path": "select/14_Step_Back!_1nonly_SXMPRA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take a Step Back (Remastered 2002)",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/15_Take_a_Step_Back_(Remastered_2002)_Simple_Minds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Step Back",
+      "artist": "GOT the beat",
+      "has_synced": false,
+      "path": "select/pl_01_Step_Back_GOT_the_beat.txt"
+    }
+  ]
+}
